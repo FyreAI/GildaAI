@@ -1,4 +1,4 @@
-# Nyra Agent Framework
+# Gilda Agent Framework
 
 [![Watch the Showcase Video](https://img.youtube.com/vi/Uz8djygCPCY/maxresdefault.jpg)](https://youtu.be/Uz8djygCPCY)
 
@@ -30,7 +30,7 @@ docker compose up -d
 
 ### 4. Enter container
 ```bash
-docker exec -it nyra_agent_playground bash
+docker exec -it Gilda_agent_playground bash
 ```
 
 ### 5. Build agent 
